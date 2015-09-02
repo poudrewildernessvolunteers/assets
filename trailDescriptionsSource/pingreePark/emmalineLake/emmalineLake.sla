@@ -97,14 +97,14 @@
             <trail/>
             <PageItemAttributes/>
         </MASTEROBJECT>
-        <PAGEOBJECT OwnPage="0" PTYPE="4" XPOS="142" YPOS="421" WIDTH="260" HEIGHT="148.25" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LINESPMode="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 260 0 260 0 260 0 260 0 260 148.25 260 148.25 260 148.25 260 148.25 0 148.25 0 148.25 0 148.25 0 148.25 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 260 0 260 0 260 0 260 0 260 148.25 260 148.25 260 148.25 260 148.25 0 148.25 0 148.25 0 148.25 0 148.25 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
-            <ITEXT FONT="FreeSerif Bold" CH="Trailhead Location:"/>
+        <PAGEOBJECT OwnPage="0" PTYPE="4" XPOS="142" YPOS="421" WIDTH="248" HEIGHT="42.5" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LINESPMode="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 248 0 248 0 248 0 248 0 248 42.5 248 42.5 248 42.5 248 42.5 0 42.5 0 42.5 0 42.5 0 42.5 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 248 0 248 0 248 0 248 0 248 42.5 248 42.5 248 42.5 248 42.5 0 42.5 0 42.5 0 42.5 0 42.5 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="20" BACKITEM="-1">
+            <ITEXT FONT="FreeSerif Bold" CH="Trail­head Loc­a­tion:"/>
             <ITEXT CH="   "/>
-            <ITEXT FONT="FreeSerif Regular" CH="Poudre Canyon; drive 26.5 miles from Ted’s Place to the Pingree Park Road (at mm 96.1). Cross the Cache La Poudre River and drive 15.9 miles up the Pingree Park Road. Take the turnoff to the Tom Bennett Campground (locat- ed just below the CSU Pingree Park Campus). The trailhead is just past the Campground. You can either park just off the road or follow a rough but passable road for 0.5 mile to a locked gate. Facilities and water for stock are available at Tom Bennett Campground. "/>
+            <ITEXT FONT="FreeSerif Regular" CH="Poudre Canyon; drive 26.5 miles from Ted’s Place to the Pin­gree Park Road (at mm 96.1). Cross the Cache La Poudre River and drive 15.9 miles up the Pin­gree Park Road. Take the turnoff to the Tom Ben­nett Camp­ground (loc­ated just be­low the CSU Pin­gree Park Cam­pus). The trail­head is just past the Camp­ground. You can either park just off the road or fol­low a rough but pass­able road for 0.5 mile to a locked gate. Fa­cil­it­ies and wa­ter for stock are avail­able at Tom Ben­nett Camp­ground. "/>
             <trail/>
             <PageItemAttributes/>
         </PAGEOBJECT>
-        <PAGEOBJECT OwnPage="0" PTYPE="4" XPOS="410" YPOS="476.25" WIDTH="244" HEIGHT="341.25" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" TXTBASE="-12" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 244 0 244 0 244 0 244 0 244 341.25 244 341.25 244 341.25 244 341.25 0 341.25 0 341.25 0 341.25 0 341.25 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 244 0 244 0 244 0 244 0 244 341.25 244 341.25 244 341.25 244 341.25 0 341.25 0 341.25 0 341.25 0 341.25 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="17" BACKITEM="-1">
+        <PAGEOBJECT OwnPage="0" PTYPE="4" XPOS="398" YPOS="495" WIDTH="245.5" HEIGHT="319.5" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" TXTBASE="-12" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 245.5 0 245.5 0 245.5 0 245.5 0 245.5 319.5 245.5 319.5 245.5 319.5 245.5 319.5 0 319.5 0 319.5 0 319.5 0 319.5 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 245.5 0 245.5 0 245.5 0 245.5 0 245.5 319.5 245.5 319.5 245.5 319.5 245.5 319.5 0 319.5 0 319.5 0 319.5 0 319.5 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="17" BACKITEM="-1">
             <ITEXT FONT="FreeSerif Bold" CH="Trail Description:"/>
             <ITEXT FONT="FreeSerif Regular" CH="  From the trailhead, the trail skirts the west side of the CSU Pingree Park Campus on a former jeep trail for 3.5 miles to Cirque Meadows – a popular destination for visitors. Although this portion of the trail is on CSU private land and outside of Wilderness, Wilderness regulations (except dogs do not currently have to be on hand-held leash) apply and the USFS has trail maintenance responsibilities. A forest fire started by lightning in 1994 destroyed a considerable area of pine forest and much of the Campus. The impacts of this fire remain quite visible along the first mile or so of this trail. Notice the dense re- growth of small lodgepole pine and quaking aspen trees and the abundance of wildflowers that are now flourishing in the burn area. An earlier fire in 1890 engulfed the area around the park and destroyed its predominantly ponderosa pine forest. Subsequently, most of this area became dominated by lodgepole pine and quaking aspen."/>
             <para/>
@@ -128,44 +128,80 @@
             <trail/>
             <PageItemAttributes/>
         </PAGEOBJECT>
-        <PAGEOBJECT OwnPage="0" PTYPE="4" XPOS="143" YPOS="576" WIDTH="258" HEIGHT="242.25" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 258 0 258 0 258 0 258 0 258 242.25 258 242.25 258 242.25 258 242.25 0 242.25 0 242.25 0 242.25 0 242.25 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 258 0 258 0 258 0 258 0 258 242.25 258 242.25 258 242.25 258 242.25 0 242.25 0 242.25 0 242.25 0 242.25 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="20" BACKITEM="-1">
+        <PAGEOBJECT OwnPage="0" PTYPE="4" XPOS="142" YPOS="467.25" WIDTH="247.75" HEIGHT="285.75" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 247.75 0 247.75 0 247.75 0 247.75 0 247.75 285.75 247.75 285.75 247.75 285.75 247.75 285.75 0 285.75 0 285.75 0 285.75 0 285.75 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 247.75 0 247.75 0 247.75 0 247.75 0 247.75 285.75 247.75 285.75 247.75 285.75 247.75 285.75 0 285.75 0 285.75 0 285.75 0 285.75 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
             <ITEXT FONT="FreeSerif Bold" CH="GPS Coordinates:"/>
             <para/>
             <ITEXT FONT="FreeSerif Italic" CH="trailhead just "/>
             <para/>
-            <ITEXT FONT="FreeSerif Italic" CH="past campground:  N40°34.567’ W105°35.175’"/>
+            <ITEXT FONT="FreeSerif Italic" CH="past campground:  "/>
+            <tab FONT="FreeSerif Italic"/>
+            <ITEXT FONT="FreeSerif Italic" CH="N40°34.567’ W105°35.175’"/>
             <para/>
             <ITEXT FONT="FreeSerif Italic" CH="trailhead at locked gate:N40°34.442’ W105°35.600’"/>
             <para/>
             <ITEXT FONT="FreeSerif Italic" CH="Seven established campsites below the Travel Zone:"/>
             <para/>
-            <ITEXT FONT="FreeSerif Italic" CH="    #1 “Y” Camp:        N40°33.385’ W105°36.898’"/>
+            <ITEXT FONT="FreeSerif Italic" CH="    #1 “Y” Camp:        "/>
+            <tab FONT="FreeSerif Italic"/>
+            <ITEXT FONT="FreeSerif Italic" CH="N40°33.385’ W105°36.898’"/>
             <para/>
-            <ITEXT FONT="FreeSerif Italic" CH="    #2 Spruce Camp:  N40°33.076’ W105°37.594’"/>
+            <ITEXT FONT="FreeSerif Italic" CH="    #2 Spruce Camp:  "/>
+            <tab FONT="FreeSerif Italic"/>
+            <ITEXT FONT="FreeSerif Italic" CH="N40°33.076’ W105°37.594’"/>
             <para/>
-            <ITEXT FONT="FreeSerif Italic" CH="    #3 Pine Camp:      N40°33.058’ W105°37.617’"/>
+            <ITEXT FONT="FreeSerif Italic" CH="    #3 Pine Camp:      "/>
+            <tab FONT="FreeSerif Italic"/>
+            <ITEXT FONT="FreeSerif Italic" CH="N40°33.058’ W105°37.617’"/>
             <para/>
-            <ITEXT FONT="FreeSerif Italic" CH="    #4 Fir Camp:        N40°33.048’ W105°37.665’"/>
+            <ITEXT FONT="FreeSerif Italic" CH="    #4 Fir Camp:        "/>
+            <tab FONT="FreeSerif Italic"/>
+            <ITEXT FONT="FreeSerif Italic" CH="N40°33.048’ W105°37.665’"/>
             <para/>
-            <ITEXT FONT="FreeSerif Italic" CH="    #5 Aspen Camp:   N40°33.020’ W105°37.669’"/>
+            <ITEXT FONT="FreeSerif Italic" CH="    #5 Aspen Camp:   "/>
+            <tab FONT="FreeSerif Italic"/>
+            <ITEXT FONT="FreeSerif Italic" CH="N40°33.020’ W105°37.669’"/>
             <para/>
-            <ITEXT FONT="FreeSerif Italic" CH="    #6 Juniper Camp: N40°33.127’ W105°37.636’"/>
+            <ITEXT FONT="FreeSerif Italic" CH="    #6 Juniper Camp: "/>
+            <tab FONT="FreeSerif Italic"/>
+            <ITEXT FONT="FreeSerif Italic" CH="N40°33.127’ W105°37.636’"/>
             <para/>
-            <ITEXT FONT="FreeSerif Italic" CH="    #7 Willow Camp:  N40°33.108’ W105°37.684’"/>
+            <ITEXT FONT="FreeSerif Italic" CH="    #7 Willow Camp:  "/>
+            <tab FONT="FreeSerif Italic"/>
+            <ITEXT FONT="FreeSerif Italic" CH="N40°33.108’ W105°37.684’"/>
             <para/>
             <ITEXT FONT="FreeSerif Italic" CH="Four designated campsites within the Travel Zone:"/>
             <para/>
-            <ITEXT FONT="FreeSerif Italic" CH="    #1:  N40°32.964’ W105°38.064’"/>
+            <ITEXT FONT="FreeSerif Italic" CH="    #1: "/>
+            <tab FONT="FreeSerif Italic"/>
+            <tab FONT="FreeSerif Italic"/>
+            <tab FONT="FreeSerif Italic"/>
+            <ITEXT FONT="FreeSerif Italic" CH="N40°32.964’ W105°38.064’"/>
             <para/>
-            <ITEXT FONT="FreeSerif Italic" CH="    #2:  N40°32.983’ W105°38.077’"/>
+            <ITEXT FONT="FreeSerif Italic" CH="    #2:  "/>
+            <tab FONT="FreeSerif Italic"/>
+            <tab FONT="FreeSerif Italic"/>
+            <tab FONT="FreeSerif Italic"/>
+            <ITEXT FONT="FreeSerif Italic" CH="N40°32.983’ W105°38.077’"/>
             <para/>
-            <ITEXT FONT="FreeSerif Italic" CH="    #3:  N40°32.760’ W105°38.655’"/>
+            <ITEXT FONT="FreeSerif Italic" CH="    #3:  "/>
+            <tab FONT="FreeSerif Italic"/>
+            <tab FONT="FreeSerif Italic"/>
+            <tab FONT="FreeSerif Italic"/>
+            <ITEXT FONT="FreeSerif Italic" CH="N40°32.760’ W105°38.655’"/>
             <para/>
-            <ITEXT FONT="FreeSerif Italic" CH="    #4:  N40°32.782’ W105°38.837’"/>
+            <ITEXT FONT="FreeSerif Italic" CH="    #4:  "/>
+            <tab FONT="FreeSerif Italic"/>
+            <tab FONT="FreeSerif Italic"/>
+            <tab FONT="FreeSerif Italic"/>
+            <ITEXT FONT="FreeSerif Italic" CH="N40°32.782’ W105°38.837’"/>
             <para/>
-            <ITEXT FONT="FreeSerif Italic" CH="Cirque Lake:        N40°32.455’  W105°39.674’"/>
+            <ITEXT FONT="FreeSerif Italic" CH="Cirque Lake:        "/>
+            <tab FONT="FreeSerif Italic"/>
+            <ITEXT FONT="FreeSerif Italic" CH="N40°32.455’  W105°39.674’"/>
             <para/>
-            <ITEXT FONT="FreeSerif Italic" CH="Emmaline Lake:   N40°32.555’  W105°39.684’"/>
+            <ITEXT FONT="FreeSerif Italic" CH="Emmaline Lake:   "/>
+            <tab FONT="FreeSerif Italic"/>
+            <ITEXT FONT="FreeSerif Italic" CH="N40°32.555’  W105°39.684’"/>
             <para/>
             <PageItemAttributes/>
         </PAGEOBJECT>
@@ -275,7 +311,14 @@
             <trail/>
             <PageItemAttributes/>
         </PAGEOBJECT>
-        <PAGEOBJECT OwnPage="0" PTYPE="4" XPOS="411.75" YPOS="423.75" WIDTH="235.5" HEIGHT="42.75" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 235.5 0 235.5 0 235.5 0 235.5 0 235.5 42.75 235.5 42.75 235.5 42.75 235.5 42.75 0 42.75 0 42.75 0 42.75 0 42.75 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 235.5 0 235.5 0 235.5 0 235.5 0 235.5 42.75 235.5 42.75 235.5 42.75 235.5 42.75 0 42.75 0 42.75 0 42.75 0 42.75 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="2">
+        <PAGEOBJECT OwnPage="0" PTYPE="4" XPOS="143.25" YPOS="758.25" WIDTH="247.5" HEIGHT="58.5" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LINESPMode="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 247.5 0 247.5 0 247.5 0 247.5 0 247.5 58.5 247.5 58.5 247.5 58.5 247.5 58.5 0 58.5 0 58.5 0 58.5 0 58.5 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 247.5 0 247.5 0 247.5 0 247.5 0 247.5 58.5 247.5 58.5 247.5 58.5 247.5 58.5 0 58.5 0 58.5 0 58.5 0 58.5 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="21" BACKITEM="0">
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="0" PTYPE="4" XPOS="399" YPOS="423" WIDTH="243.75" HEIGHT="64.5" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LINESPMode="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 243.75 0 243.75 0 243.75 0 243.75 0 243.75 64.5 243.75 64.5 243.75 64.5 243.75 64.5 0 64.5 0 64.5 0 64.5 0 64.5 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 243.75 0 243.75 0 243.75 0 243.75 0 243.75 64.5 243.75 64.5 243.75 64.5 243.75 64.5 0 64.5 0 64.5 0 64.5 0 64.5 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="20">
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="0" PTYPE="6" XPOS="141.75" YPOS="465.75" WIDTH="249.75" HEIGHT="288.75" RADRECT="5" FRTYPE="2" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="Black" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="32" POCOOR="5 0 5 0 244.75 0 244.75 0 244.75 0 247.511 0 249.75 5 249.75 2.23858 249.75 5 249.75 5 249.75 283.75 249.75 283.75 249.75 283.75 249.75 286.511 244.75 288.75 247.511 288.75 244.75 288.75 244.75 288.75 5 288.75 5 288.75 5 288.75 2.23858 288.75 0 283.75 0 286.511 0 283.75 0 283.75 0 5 0 5 0 5 0 2.23858 5 0 2.23858 0 " NUMCO="16" COCOOR="0 0 0 0 249.75 0 249.75 0 249.75 0 249.75 0 249.75 288.75 249.75 288.75 249.75 288.75 249.75 288.75 0 288.75 0 288.75 0 288.75 0 288.75 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <trail/>
             <PageItemAttributes/>
         </PAGEOBJECT>
     </DOCUMENT>

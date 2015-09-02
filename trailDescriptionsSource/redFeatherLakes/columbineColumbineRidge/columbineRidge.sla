@@ -103,9 +103,13 @@
             <para PARENT="Default Paragraph Style"/>
             <ITEXT FONT="FreeSerif Regular" CH="patrol:"/>
             <para/>
-            <ITEXT FONT="FreeSerif Regular" CH="  Via the Mt. Margaret Trail: From Ted’s Place, follow US-287 north for 10.5 miles to the “forks” at Livermore. Turn left onto the Red Feather Lakes Road (CR-74E). At mm 20.8 you will see the Mt. Margaret parking lot and trailhead on the right (north) side of the road. Facilities and stock trail- er parking available at trailhead. No water. Access is from the lower Mt. Margaret Trail via its junction with the Columbine Trail, 2.5 miles from the Mt. Margaret trailhead. "/>
+            <ITEXT FONT="FreeSerif Regular" CH="  "/>
+            <ITEXT FONT="FreeSerif Regular" FEATURES="inherit underline" CH="Via the Mt. Margaret Trail:"/>
+            <ITEXT FONT="FreeSerif Regular" CH=" From Ted’s Place, follow US-287 north for 10.5 miles to the “forks” at Livermore. Turn left onto the Red Feather Lakes Road (CR-74E). At mm 20.8 you will see the Mt. Margaret parking lot and trailhead on the right (north) side of the road. Facilities and stock trail- er parking available at trailhead. No water. Access is from the lower Mt. Margaret Trail via its junction with the Columbine Trail, 2.5 miles from the Mt. Margaret trailhead. "/>
             <para/>
-            <ITEXT FONT="FreeSerif Regular" CH="  Via the eastern end of the Frog Pond Trail (from  the Dowdy Lake Campground): From Ted’s Place, follow US-287 north for 10.5 miles to the “forks” at Livermore. Turn left onto the Red Feather Lakes Road (CR-74E). At mm 23.0, turn north on Dowdy Road and drive until the pavement ends. Turn east (right) onto Dowdy Lake Campground Road and go to the Day Use Area at the north end of the Dowdy Lake Campground. "/>
+            <ITEXT FONT="FreeSerif Regular" CH="  "/>
+            <ITEXT FONT="FreeSerif Regular" FEATURES="inherit underline" CH="Via the eastern end of the Frog Pond Trail"/>
+            <ITEXT FONT="FreeSerif Regular" CH=" (from  the Dowdy Lake Campground): From Ted’s Place, follow US-287 north for 10.5 miles to the “forks” at Livermore. Turn left onto the Red Feather Lakes Road (CR-74E). At mm 23.0, turn north on Dowdy Road and drive until the pavement ends. Turn east (right) onto Dowdy Lake Campground Road and go to the Day Use Area at the north end of the Dowdy Lake Campground. "/>
             <ITEXT FONT="FreeSerif Bold" CH="Note that parking here requires fee payment ($5.00) or a pass. "/>
             <trail/>
             <PageItemAttributes/>
@@ -126,7 +130,9 @@
             <para/>
             <ITEXT FONT="FreeSerif Regular" CH="  Remember that you are NOT patrolling the Mt. Margaret Trail during your patrol of the Columbine trails (#976, 976-2, &amp; 976-21), you are just using the Mt. Margaret Trail as an approach to the latter trails. You should not schedule a patrol for the Mt. Margaret Trail if this is your reason for being on it. Do NOT include Mt. Margaret observations, contacts, violations, weeds, or other in your Columbine trails trail report. The Columbine Trail is 2.3 mi long one way; the Columbine Ridge Trail is 0.95 mi long one way, and the Columbine Ridge Loop Trail is 0.45 mi long (and you travel 2.6 mi one way on the Mt. Margaret Trail to get to the start of the Columbine Trail). Thus, the total round-trip distance of the entire patrol/trip as described above is 11.9 miles. However, there is little elevation gain or loss along the route so that this is an “easy” patrol. "/>
             <para/>
-            <ITEXT FONT="FreeSerif Regular" CH="  Please note any of the three Columbine trails that you did NOT patrol on your trip in the COMMENTS section of your patrol report. "/>
+            <ITEXT FONT="FreeSerif Regular" CH="  Please note any of the three Columbine trails that you did NOT patrol on your trip in the "/>
+            <ITEXT FONT="FreeSerif Italic" CH="COMMENTS"/>
+            <ITEXT FONT="FreeSerif Regular" CH=" section of your patrol report. "/>
             <para/>
             <ITEXT FONT="FreeSerif Regular" CH="  Note that all of these trails can be hot and dry in the summer months so carry plenty of water."/>
             <trail/>
