@@ -110,10 +110,13 @@
             <ITEXT CH="   "/>
             <ITEXT FONT="FreeSerif Regular" CH="There are two routes to this trail"/>
             <para PARENT="Default Paragraph Style"/>
-            <ITEXT FONT="FreeSerif Regular" CH="•  Drive up the Big Thompson Canyon on US-34. Before reaching Lake Estes make a left onto Mall Road, a Larimer County connector road passing over the Big Thompson River below the dam. This will take you to US-36. Turn left and head southeast on US-36 for about six miles. The trailhead is located on the right side of the road at mile marker 8."/>
+            <ITEXT FONT="FreeSerif Regular" CH="  "/>
+            <ITEXT FONT="FreeSerif Regular" FEATURES="inherit underline" CH="Drive up the Big Thompson"/>
+            <ITEXT FONT="FreeSerif Regular" CH=" Canyon on US-34. Before reaching Lake Estes make a left onto Mall Road, a Larimer County connector road passing over the Big Thompson River below the dam. This will take you to US-36. Turn left and head southeast on US-36 for about six miles. The trailhead is located on the right side of the road at mile marker 8."/>
             <para PARENT="Default Paragraph Style"/>
-            <ITEXT CH="•  "/>
-            <ITEXT FONT="FreeSerif Regular" CH="Drive west from Longmont on CO-66 to the town of Lyons, and then head northwest on US-36 for about 12 miles. The trailhead is located on the left side of the road. "/>
+            <ITEXT FONT="FreeSerif Regular" CH="  "/>
+            <ITEXT FONT="FreeSerif Regular" FEATURES="inherit underline" CH="Drive west from Longmont"/>
+            <ITEXT FONT="FreeSerif Regular" CH=" on CO-66 to the town of Lyons, and then head northwest on US-36 for about 12 miles. The trailhead is located on the left side of the road. "/>
             <para/>
             <ITEXT FONT="FreeSerif Regular" CH="    Facilities and trailer parking are available at the trailhead. Stock riders: The trail can be difficult for horses because erosion on steep sections has exposed rocks."/>
             <trail/>
